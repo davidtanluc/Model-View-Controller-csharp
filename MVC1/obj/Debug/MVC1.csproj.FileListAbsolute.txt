@@ -1,0 +1,6 @@
+C:\Users\davidtan\Dropbox\Loyola,DropBox sp,fall2014\Summer2014-Intern6credits\Comp499,Intern\potential\rcg\Codespractice\MVCCs\MVC1\MVC1\bin\Debug\MVC1.exe.config
+C:\Users\davidtan\Dropbox\Loyola,DropBox sp,fall2014\Summer2014-Intern6credits\Comp499,Intern\potential\rcg\Codespractice\MVCCs\MVC1\MVC1\bin\Debug\MVC1.exe
+C:\Users\davidtan\Dropbox\Loyola,DropBox sp,fall2014\Summer2014-Intern6credits\Comp499,Intern\potential\rcg\Codespractice\MVCCs\MVC1\MVC1\bin\Debug\MVC1.pdb
+C:\Users\davidtan\Dropbox\Loyola,DropBox sp,fall2014\Summer2014-Intern6credits\Comp499,Intern\potential\rcg\Codespractice\MVCCs\MVC1\MVC1\obj\Debug\MVC1.csprojResolveAssemblyReference.cache
+C:\Users\davidtan\Dropbox\Loyola,DropBox sp,fall2014\Summer2014-Intern6credits\Comp499,Intern\potential\rcg\Codespractice\MVCCs\MVC1\MVC1\obj\Debug\MVC1.exe
+C:\Users\davidtan\Dropbox\Loyola,DropBox sp,fall2014\Summer2014-Intern6credits\Comp499,Intern\potential\rcg\Codespractice\MVCCs\MVC1\MVC1\obj\Debug\MVC1.pdb
